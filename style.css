@@ -1,0 +1,36 @@
+body
+{
+    background-image: url(https://post.healthline.com/wp-content/uploads/2020/01/285927-6-Best-Air-Purifiers-for-Allergies-Pets-Mold-and-SmokeThumbnail-732x549.jpg);
+    opacity: 1;
+    /* padding-left: 3em;
+    padding-right: 3em ; */
+    margin: auto;
+    justify-content: center;
+    text-align: justify;
+    background-position-x: 25%;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 80vw;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.titles{
+    display: block;
+    justify-content:center;
+    text-align: center;
+}
+.wp-block-quote{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    border-radius: 5%;
+    /* align-items: center; */
+    justify-content: center;
+    position: relative;
+    margin-left: 20%;
+    margin-right: auto;
+    width: 50vw;
+    height: 350px;
+}
